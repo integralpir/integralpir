@@ -22,12 +22,6 @@ First year student from Perm, Russia, with ~1 year of programming experience. I 
 </p>
 
 
-### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
-
 ## 🛠 Technical Stack
 *   Java/Python languages
 *   MySQL, PostgreSQL
