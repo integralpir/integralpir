@@ -1,6 +1,6 @@
 # Hi, I'm Roman 👋
 
-First year student from Perm, Russia, with ~1 year of programming experience. I have some knowledge in backend development on Java.
+First year student from Perm, Russia, with ~1 year of programming experience.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=integralpir&show_icons=true&count_private=true"><img
@@ -24,8 +24,6 @@ First year student from Perm, Russia, with ~1 year of programming experience. I 
 
 ## 🛠 Technical Stack
 *   Java/Python languages
-*   MySQL, PostgreSQL
-*   Spring Framework, Spring Boot
 
 ### My opensource projects
 
