@@ -1,6 +1,6 @@
 # Hi, I'm Roman 👋
 
-First year student from Perm, Russia, with ~1 year of programming experience.
+Second year student from Perm, Russia, with >1 year of programming experience.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=integralpir&show_icons=true&count_private=true"><img
@@ -23,7 +23,7 @@ First year student from Perm, Russia, with ~1 year of programming experience.
 
 
 ## 🛠 Technical Stack
-*   Java/Python languages
+*   Java languages
 
 ### My opensource projects
 
